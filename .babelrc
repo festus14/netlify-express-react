@@ -1,8 +1,11 @@
 {
-    "presets": ['env', 'react'],
-    "plugins": [
-        ["module-resolver", {
-            "root": ["./"],
-        }]
+  "presets": ["env", "react"],
+  "plugins": [
+    [
+      "module-resolver",
+      {
+        "root": ["./"]
+      }
     ]
+  ]
 }
