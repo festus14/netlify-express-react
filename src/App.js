@@ -24,6 +24,8 @@ const GitHubCorner = ({ url }) => {
   );
 };
 
+// I just edited this code
+
 class App extends Component {
   render() {
     return (
